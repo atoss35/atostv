@@ -4,6 +4,8 @@
 
 Pour Freebox Pop, Google TV, Fire TV et boîtiers Android TV.
 
-Adresse à taper dans Downloader :
+Code à taper dans Downloader : **8463538**
+
+Ou l'adresse complète :
 
 `github.com/atoss35/atostv/releases/latest/download/atostv.apk`
