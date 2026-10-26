@@ -4,7 +4,9 @@
 
 Pour Freebox Pop, Google TV, Fire TV et boîtiers Android TV.
 
-Code à taper dans Downloader : **8463538**
+Adresse à taper dans Downloader : **atoss35.github.io**
+
+Ou le code : **8463538**
 
 Ou l'adresse complète :
 
